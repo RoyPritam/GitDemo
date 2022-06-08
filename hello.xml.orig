@@ -1,0 +1,14 @@
+<note>
+<<<<<<< HEAD
+	<to>World in Master</to>
+	<from>Master branch</from>
+	<heading>XML for Git in master Branch</heading>
+	<body>XML code inside master branch of git</body>
+</note>
+=======
+	<to>World</to>
+	<from>Pritam</from>
+	<heading>XML for Git</heading>
+	<body>My first xml for git practice</body>
+</note>s
+>>>>>>> Gitwork
